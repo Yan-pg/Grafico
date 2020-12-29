@@ -1,0 +1,10 @@
+.caio {
+    width: 400px;
+    height: 100px;
+    background-color: red;
+}
+
+.caio p {
+    color: white;
+    font-size: 70px;
+}
